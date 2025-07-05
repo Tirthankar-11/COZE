@@ -1,2 +1,2 @@
-# COZE
-coze插件库
+# douyin-extractor
+douyin-extractor
